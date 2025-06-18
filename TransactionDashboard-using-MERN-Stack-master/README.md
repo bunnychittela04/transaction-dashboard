@@ -85,4 +85,4 @@ The application uses the following APIs to fetch and manage transactions:
 
 
 ## Screenshots
-![Screenshot](assets/"C:\Users\AMARA\OneDrive\Pictures\Screenshots\Screenshot 2025-06-18 151652.png")
+![Screenshot](assets/Screenshot.png)
